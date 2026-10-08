@@ -1,0 +1,6 @@
+{
+  "name": "LensPulse - Getty Contributor Studio & Analytics",
+  "description": "Cross-platform desktop application for Getty Images & iStock contributors to submit photos, track monthly royalties, analyze global sales and keywords, and plan seasonal upload schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
